@@ -5,8 +5,12 @@ using namespace igloo;
 
 Context(Hiker)
 {
-  Spec(Life_the_universe_and_everything)
+  Spec(global_function_example)
   {
     Assert::That(answer(), Equals(42));
+  }
+  Spec(instance_method_example)
+  {
+    Assert::That(hiker().answer(), Equals(42));
   }
 };
