@@ -1,6 +1,6 @@
 {
-  "image_name": "cyberdojofoundation/clangpp_igloo:a97f795",
-  "display_name": "C++ (clang++), Igloo",
+  "image_name": "ghcr.io/cyber-dojo-languages/clangpp_igloo:e328dc6",
+  "display_name": "C++ (clang++ 14.0.0), Igloo 1.1.1",
   "visible_filenames": [
     "hiker.tests.cpp",
     "hiker.cpp",
