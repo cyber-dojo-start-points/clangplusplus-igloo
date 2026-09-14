@@ -1,0 +1,6 @@
+{
+  "truncated": false,
+  "match_counts": {
+    "^Test run complete\\. 0 tests run, 0 succeeded, 0 failed\\.$": 1
+  }
+}

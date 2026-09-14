@@ -1,0 +1,8 @@
+{
+  "matches": [
+    "^hiker\\.cpp:5:5: error: use of undeclared identifier 'retrun'$"
+  ],
+  "match_counts": {
+    "^Test run complete\\.": 0
+  }
+}

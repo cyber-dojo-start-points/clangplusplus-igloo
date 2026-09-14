@@ -1,0 +1,7 @@
+{
+  "max_output_lines": 170,
+  "truncated": false,
+  "match_counts": {
+    "^Test run complete\\. 2 tests run, 2 succeeded, 0 failed\\.$": 1
+  }
+}

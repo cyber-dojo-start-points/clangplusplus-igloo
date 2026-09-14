@@ -1,0 +1,9 @@
+{
+  "matches": [
+    "^hiker\\.tests\\.cpp:[0-9]+:[0-9]+: error: use of undeclared identifier 'ansewr'; did you mean 'answer'\\?$",
+    "^\\./hiker\\.hpp:[0-9]+:[0-9]+: note: 'answer' declared here$"
+  ],
+  "match_counts": {
+    "^Test run complete\\.": 0
+  }
+}

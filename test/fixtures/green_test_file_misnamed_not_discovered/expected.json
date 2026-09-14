@@ -1,0 +1,8 @@
+{
+  "max_output_lines": 170,
+  "truncated": false,
+  "match_counts": {
+    "^Test run complete\\. 1 tests run, 1 succeeded, 0 failed\\.$": 1,
+    "^AnswerSize::": 0
+  }
+}

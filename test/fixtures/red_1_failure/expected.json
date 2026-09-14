@@ -1,0 +1,11 @@
+{
+  "truncated": false,
+  "matches": [
+    "^Expected: equal to 42$",
+    "^Actual: 54$"
+  ],
+  "match_counts": {
+    "^Test run complete\\. 1 tests run, 0 succeeded, 1 failed\\.$": 1,
+    "^Hiker::life_the_universe_and_everything failed:$": 1
+  }
+}

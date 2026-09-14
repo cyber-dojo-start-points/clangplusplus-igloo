@@ -1,0 +1,12 @@
+{
+  "truncated": false,
+  "matches": [
+    "^Expected: equal to 3$",
+    "^Actual: 2$"
+  ],
+  "match_counts": {
+    "^Test run complete\\. 2 tests run, 1 succeeded, 1 failed\\.$": 1,
+    "^AnswerSize::the_answer_is_three_digits_long failed:$": 1,
+    " failed:$": 1
+  }
+}

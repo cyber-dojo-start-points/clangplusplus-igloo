@@ -1,0 +1,10 @@
+{
+  "truncated": false,
+  "matches": [
+    "^AnswerSize::the_answer_is_three_digits_long failed:$"
+  ],
+  "match_counts": {
+    "^Test run complete\\. 4 tests run, 3 succeeded, 1 failed\\.$": 1,
+    " failed:$": 1
+  }
+}

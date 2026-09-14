@@ -1,0 +1,9 @@
+{
+  "matches": [
+    "^hiker\\.tests\\.cpp:[0-9]+:[0-9]+: error: expected '\\)'$",
+    "^hiker\\.tests\\.cpp:[0-9]+:[0-9]+: note: to match this '\\('$"
+  ],
+  "match_counts": {
+    "^Test run complete\\.": 0
+  }
+}

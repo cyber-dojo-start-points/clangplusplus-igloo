@@ -1,0 +1,12 @@
+{
+  "truncated": false,
+  "matches": [
+    "^Hiker::life_the_universe_and_everything failed:$",
+    "^Hiker::the_answer_is_two_digits_long failed:$"
+  ],
+  "match_counts": {
+    "^Test run complete\\. 2 tests run, 0 succeeded, 2 failed\\.$": 1,
+    "^Caught unknown exception$": 1,
+    " failed:$": 2
+  }
+}

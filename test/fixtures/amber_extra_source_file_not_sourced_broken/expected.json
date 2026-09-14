@@ -1,0 +1,8 @@
+{
+  "matches": [
+    "^checksum\\.cpp:[0-9]+:[0-9]+: error: expected ';' after return statement$"
+  ],
+  "match_counts": {
+    "^Test run complete\\.": 0
+  }
+}

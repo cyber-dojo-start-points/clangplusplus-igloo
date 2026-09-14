@@ -1,0 +1,9 @@
+{
+  "truncated": true,
+  "matches": [
+    "^debug: i is 0, total is 0$"
+  ],
+  "match_counts": {
+    "^Test run complete\\.": 0
+  }
+}

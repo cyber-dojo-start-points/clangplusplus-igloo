@@ -1,0 +1,11 @@
+{
+  "matches": [
+    "^==[0-9]+==ERROR: AddressSanitizer: SEGV on unknown address ",
+    "^SUMMARY: AddressSanitizer: SEGV .* in answer\\(\\)$"
+  ],
+  "match_counts": {
+    "^entering the first spec$": 1,
+    "^entering the second spec$": 0,
+    "^Test run complete\\.": 0
+  }
+}

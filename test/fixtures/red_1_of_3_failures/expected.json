@@ -1,0 +1,10 @@
+{
+  "truncated": false,
+  "matches": [
+    "^Hiker::life_the_universe_and_everything failed:$"
+  ],
+  "match_counts": {
+    "^Test run complete\\. 3 tests run, 2 succeeded, 1 failed\\.$": 1,
+    " failed:$": 1
+  }
+}
