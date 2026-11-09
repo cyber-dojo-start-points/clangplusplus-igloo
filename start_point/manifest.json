@@ -1,9 +1,9 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/clangpp_igloo:c1eb955@sha256:afae0ba4d44750d6d4a4220cd814a7cf7b600ad119eb2c651a9a5fc88ec80bac",
-  "display_name": "C++ (clang++ 23.1.5), Igloo 1.1.1",
+  "image_name": "ghcr.io/cyber-dojo-languages/clangpp_igloo:8ec40c1@sha256:69dc8e7aeeec8997caf10189ed58d9fdece8cf5315df3405f591ce1a39f3ef67",
+  "display_name": "C++ (clang++ 23.1.6), Igloo 1.1.1",
   "language": [
     "C++ (clang++)",
-    "23.1.5"
+    "23.1.6"
   ],
   "test_framework": [
     "Igloo",
